@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
-REFRACTORING
+REFACTORING
 
-This is my refractoring of a website. The mock-up and codesnap are from the first module of the class.
+This is my refactoring of a website. The mock-up and codesnap are from the first module of the class.
 
 Tasks:
 
