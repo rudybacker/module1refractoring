@@ -12,3 +12,5 @@ Tasks:
 3. Describe pictures or logos for screen reading technologies.
 
 4. Note the changes I made to the HTML and CSS files of the webpage.
+
+My deployed page is at https://rudybacker.github.io/module1refractoring/
